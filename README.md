@@ -16,7 +16,8 @@ We propose a novel hypernetwork-based approach for stable continual learning fro
 
 A video showing collection of demonstrations and empirical evaluations with a physical robot (also available on [Youtube](https://youtu.be/qrESAnAk0U4)):
 
-https://github.com/sayantanauddy/clfd-snode/assets/10401716/b634a1b8-bd16-4340-a04f-62e5343d7890
+https://github.com/user-attachments/assets/b767ff0d-f781-4026-af9b-11d6b05d0670
+
 
 
 ## Datasets
