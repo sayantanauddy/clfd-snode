@@ -14,7 +14,7 @@ We propose a novel hypernetwork-based approach for stable continual learning fro
   <figcaption>Fig 2. After continually learning the 9 real-world tasks of the RoboTasks9 dataset with a single CHN-sNODE model, the robot is able to perform any of the past tasks accurately (each task involves changing positions and orientations).</figcaption>
 </p>
 
-A video showing collection of demonstrations and empirical evaluations with a physical robot (also available on [Youtube](https://www.youtube.com/watch?v=2zB2gvvCePU)):
+A video showing collection of demonstrations and empirical evaluations with a physical robot (also available on [Youtube](https://youtu.be/qrESAnAk0U4)):
 
 https://github.com/sayantanauddy/clfd-snode/assets/10401716/b634a1b8-bd16-4340-a04f-62e5343d7890
 
@@ -85,12 +85,11 @@ We gratefully acknowlege these openly accessible repositories which were a great
 If you use our code, datasets or our results in your research, please cite:
 
 ```
-@misc{auddy2024scalable,
+@article{auddy2026scalable,
       title={Scalable and Efficient Continual Learning from Demonstration via a Hypernetwork-generated Stable Dynamics Model}, 
-      author={Sayantan Auddy and Jakob Hollenstein and Matteo Saveriano and Antonio Rodríguez-Sánchez and Justus Piater},
-      year={2024},
-      eprint={2311.03600},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+      author={Auddy, Sayantan and Hollenstein, Jakob and Saveriano, Matteo and Rodríguez-Sánchez, Antonio and Piater, Justus},
+      journal={IEEE Transactions on Cognitive and Developmental Systems},
+      year={2026},
+      note={To appear}
 }
 ```
